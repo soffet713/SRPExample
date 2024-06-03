@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SRPExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CF25E8-5CFF-4CAF-B620-D68FDFBBE5FE}|SRPExample\\SRPExample.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\srpexample\\srpexample\\countriesformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CF25E8-5CFF-4CAF-B620-D68FDFBBE5FE}|SRPExample\\SRPExample.csproj|solutionrelative:srpexample\\countriesformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CF25E8-5CFF-4CAF-B620-D68FDFBBE5FE}|SRPExample\\SRPExample.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\srpexample\\srpexample\\countriesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CF25E8-5CFF-4CAF-B620-D68FDFBBE5FE}|SRPExample\\SRPExample.csproj|solutionrelative:srpexample\\countriesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CF25E8-5CFF-4CAF-B620-D68FDFBBE5FE}|SRPExample\\SRPExample.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\srpexample\\srpexample\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CF25E8-5CFF-4CAF-B620-D68FDFBBE5FE}|SRPExample\\SRPExample.csproj|solutionrelative:srpexample\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CF25E8-5CFF-4CAF-B620-D68FDFBBE5FE}|SRPExample\\SRPExample.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\srpexample\\srpexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CF25E8-5CFF-4CAF-B620-D68FDFBBE5FE}|SRPExample\\SRPExample.csproj|solutionrelative:srpexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CF25E8-5CFF-4CAF-B620-D68FDFBBE5FE}|SRPExample\\SRPExample.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\srpexample\\srpexample\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CF25E8-5CFF-4CAF-B620-D68FDFBBE5FE}|SRPExample\\SRPExample.csproj|solutionrelative:srpexample\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CF25E8-5CFF-4CAF-B620-D68FDFBBE5FE}|SRPExample\\SRPExample.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\srpexample\\srpexample\\srpexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1CF25E8-5CFF-4CAF-B620-D68FDFBBE5FE}|SRPExample\\SRPExample.csproj|solutionrelative:srpexample\\srpexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SRPExample",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SRPExample\\SRPExample\\SRPExample.csproj",
+              "RelativeDocumentMoniker": "SRPExample\\SRPExample.csproj",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SRPExample\\SRPExample\\SRPExample.csproj",
+              "RelativeToolTip": "SRPExample\\SRPExample.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T01:16:16.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorHandler.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SRPExample\\SRPExample\\ErrorHandler.cs",
+              "RelativeDocumentMoniker": "SRPExample\\ErrorHandler.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SRPExample\\SRPExample\\ErrorHandler.cs",
+              "RelativeToolTip": "SRPExample\\ErrorHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T01:15:34.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Country.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SRPExample\\SRPExample\\Country.cs",
+              "RelativeDocumentMoniker": "SRPExample\\Country.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SRPExample\\SRPExample\\Country.cs",
+              "RelativeToolTip": "SRPExample\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T01:12:14.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountriesManager.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SRPExample\\SRPExample\\CountriesManager.cs",
+              "RelativeDocumentMoniker": "SRPExample\\CountriesManager.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SRPExample\\SRPExample\\CountriesManager.cs",
+              "RelativeToolTip": "SRPExample\\CountriesManager.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T01:11:26.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountriesFormatter.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SRPExample\\SRPExample\\CountriesFormatter.cs",
+              "RelativeDocumentMoniker": "SRPExample\\CountriesFormatter.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SRPExample\\SRPExample\\CountriesFormatter.cs",
+              "RelativeToolTip": "SRPExample\\CountriesFormatter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T01:10:52.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SRPExample\\SRPExample\\Program.cs",
+              "RelativeDocumentMoniker": "SRPExample\\Program.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SRPExample\\SRPExample\\Program.cs",
+              "RelativeToolTip": "SRPExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T01:09:45.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
